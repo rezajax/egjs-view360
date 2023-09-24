@@ -13,7 +13,7 @@
 <div style="display: inline-block; max-width: 400px; padding: 20px 0">
 
 ```shell
-npm install @egjs/view360@next
+npm install @egjs/view360@next 
 ```
 
 </div>
